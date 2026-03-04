@@ -1,3 +1,5 @@
 # hello-world
-Just a test area
-Just reminding myself how all of this works .... 
+This is where I keep my personal projects
+I have several synthetic IP UVM SystemVerilog,
+Python PyTorch, and related things going on at
+the moment .. 
